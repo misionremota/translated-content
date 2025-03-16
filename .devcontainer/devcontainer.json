@@ -1,0 +1,4 @@
+ryohiy:update-xml-content-in-common-types{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {}
+}
